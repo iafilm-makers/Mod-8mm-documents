@@ -3,7 +3,6 @@ Use modern drives, eg stepper motors, so we can eliminate the sprocket holes. <b
 That saves space. Use that space to go 16:9 widescreen.<br />
 Modify and Modernise so call it Mod-8.<br /><br />
 
-Code is licensed under the MIT License<br />
+Code is licensed under the MIT license<br />
 Documents and designs are licensed under CC BY 4.0<br />
-More: See the LICENSE document.
 
